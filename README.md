@@ -2,7 +2,7 @@
 
 This project was built by me using HTML, CSS and JS.
 
-![new-years-countdown](https://user-images.githubusercontent.com/78431899/222934615-c8d48fdd-88b8-4df2-bda5-45be4d27df10.png)
+![age_calculator](https://user-images.githubusercontent.com/78431899/222939879-896e534e-5a91-43a1-8f77-429d136a1ca1.png)
 
 ## Technologies Used
 - HTML
